@@ -1,9 +1,7 @@
-package Repaso;
+package Repaso1;
 
 
 import javax.swing.*;
-
-import static javax.swing.JOptionPane.CLOSED_OPTION;
 
 public class OptionPane {
     private static JOptionPane pane;

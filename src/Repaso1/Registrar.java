@@ -1,4 +1,4 @@
-package Repaso;
+package Repaso1;
 
 import java.util.Scanner;
 
