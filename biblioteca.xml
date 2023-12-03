@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Libros>
+    <Libro>
+        <Titulo>El Gran Gatsby</Titulo>
+        <Autor>F. Scott Fitzgerald</Autor>
+    </Libro>
+    <Libro>
+        <Titulo>Drácula</Titulo>
+        <Autor>Bram Stocker</Autor>
+    </Libro>
+</Libros>
